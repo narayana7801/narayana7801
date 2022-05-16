@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'kartikeyaweb'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E0077FB7DBA542FFA7F9BFCD74DD1A88 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4ABAC8DC535642E2A18F4E9477BF53C9 }}
           package: .
